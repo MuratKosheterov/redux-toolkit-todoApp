@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MuratKosheterov/redux-toolkit-todoApp/static/css/main.e6c13ad2.css",
+    "main.js": "/MuratKosheterov/redux-toolkit-todoApp/static/js/main.dfd4ed8b.js",
+    "index.html": "/MuratKosheterov/redux-toolkit-todoApp/index.html",
+    "main.e6c13ad2.css.map": "/MuratKosheterov/redux-toolkit-todoApp/static/css/main.e6c13ad2.css.map",
+    "main.dfd4ed8b.js.map": "/MuratKosheterov/redux-toolkit-todoApp/static/js/main.dfd4ed8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dfd4ed8b.js"
+  ]
+}
